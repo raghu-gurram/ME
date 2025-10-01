@@ -1,6 +1,6 @@
 # 👋 Hola, I'm Raghu Gurram
 
-🎓 An undergraduate at **KMIT**, passionate about building **production-ready AI solutions**, from **AI agents** **Computer Vision** to **Natural Language Processing**.
+🎓 An AI Engineer intern and a Computer science undergraduate , passionate about building **production-ready ,reliable and scalable AI solutions**, 
 
 ---
 
