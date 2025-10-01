@@ -13,32 +13,30 @@
 
 ## 💻 Tech Stack
 
+### 🤖 AI / ML
+`TensorFlow` • `PyTorch` • `Keras` • `scikit-learn` • `NumPy` • `Pandas` • `Matplotlib` • `Plotly` • `Scipy` • `mlflow`
+
+### 🧱 Frameworks & Libraries
+`Flask` • `FastAPI` • `Streamlit` • `Keras` • `Matplotlib` • `mlflow` • `NumPy` • `Pandas` • `Plotly` • `PyTorch` • `scikit-learn` • `Scipy` • `TensorFlow`
+
+### 🧠 LLM & LangChain Ecosystem
+`LangChain` • `LangSmith` • `LangServe` • `Pinecone` • `Milvus` • `Chroma DB`
+
+### ☁️ Cloud & DevOps
+`AWS` • `Google Cloud Platform` • `Firebase` • `Docker`
+
 ### 🖥️ Programming Languages
 `C` • `C++` • `Java` • `Python` • `JavaScript` • `HTML5` • `LaTeX`
 
 ### 🌐 Web Development
 `HTML5` • `JavaScript` • `Bootstrap` • `Flask` • `FastAPI` • `Streamlit`
 
-### 🧱 Frameworks & Libraries
-`Flask` • `FastAPI` • `Streamlit` • `Keras` • `Matplotlib` • `mlflow` • `NumPy` • `Pandas` • `Plotly` • `PyTorch` • `scikit-learn` • `Scipy` • `TensorFlow`
-
-### ☁️ Cloud & DevOps
-`AWS` • `Google Cloud` • `Firebase` • `Docker`
-
 ### 🔧 Development Tools
 `Anaconda` • `nVIDIA (CUDA/GPU support)`
 
-### 🤖 AI / ML
-`TensorFlow` • `PyTorch` • `Keras` • `scikit-learn` • `NumPy` • `Pandas` • `Matplotlib` • `Plotly` • `Scipy` • `mlflow`
-
-### 💬 Communication / APIs
-`Twilio` • `FastAPI` • `Flask`
 
 ### 🗄️ Databases
 `MongoDB` • `MySQL` • `Pinecone` • `Milvus` • `Chroma DB`
-
-### 🧠 LLM & LangChain Ecosystem
-`LangChain` • `LangSmith` • `LangServe` • `Pinecone` • `Milvus` • `Chroma DB`
 
 ---
 
